@@ -12,3 +12,5 @@ sha1.sig
 sha1.sml
 sha256.sig
 sha256.sml
+sha512.sig
+sha512.sml
